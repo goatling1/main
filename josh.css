@@ -5,7 +5,7 @@ ul {
     padding: 0;
     overflow: hidden;
     vertical-align: middle ;
-    background-color: rgb(43, 40, 40);
+    background-color: rgb(17, 16, 16);
   }
   
   li {
@@ -30,13 +30,14 @@ ul {
     }
     
     h1 {
-      background-color: rgb(253, 185, 39);
-      color: rgb(85, 37, 130);
+      background-color: rgb(218, 221, 35);
+      color: rgb(142, 51, 226);
     }
     a {
-      color: rgb(245, 255, 105);
+      color: rgb(21, 7, 54);
     }
   
     .p1 {
       font-family: "Georgia";
     }
+    
